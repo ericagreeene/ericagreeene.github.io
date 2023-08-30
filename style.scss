@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
   margin-right: 15px;
 
   @include mobile {
@@ -273,9 +273,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
