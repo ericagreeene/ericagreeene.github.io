@@ -294,7 +294,6 @@ footer {
   width: 100%;
 }
 
-// Override gdocs styles to remove padding 
-.doc-content {
-  padding: 0;
-}
+.page {
+    margin-top: -80px;
+}	
